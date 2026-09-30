@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Forma | Interior Design & Architecture",
+  "description": "Atelier Forma creates thoughtful residential and commercial interiors through architecture, materiality, space planning, and refined design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
